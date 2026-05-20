@@ -7,7 +7,7 @@ A userscript that calculates the total value of your Bandcamp purchases and conv
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
-2. Install the script from [Greasy Fork](https://greasyfork.org/en/scripts/578935-bandcamp-collection-value/post-install), or manually by adding `bandcamp-collection-value.js`
+2. Install the script from [Greasy Fork](https://greasyfork.org/en/scripts/578935-bandcamp-collection-value), or manually by adding `bandcamp-collection-value.js`
 
 ## Usage
 

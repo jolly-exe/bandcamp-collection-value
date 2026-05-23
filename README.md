@@ -2,7 +2,7 @@
 
 A userscript that calculates the total value of your Bandcamp purchases and converts it to any currency.
 
-![screenshot](screenshot.png)
+<img src="screenshot.png" width="350">
 
 ## Installation
 

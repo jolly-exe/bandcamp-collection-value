@@ -1,3 +1,7 @@
+### repo moved to:
+https://git.maws.lol/jolly/bandcamp-collection-value
+
+
 # Bandcamp Collection Value
 
 A userscript that calculates the total value of your Bandcamp purchases and converts it to any currency.
